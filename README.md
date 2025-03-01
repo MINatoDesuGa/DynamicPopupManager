@@ -2,6 +2,7 @@
 
 - Utility class to handle in game/app popups/prompts dynamically across multiple scenes
 - Currently setted up with Error, Success, Normal(only text) type prompts (feel free to extend as per your needs)
+- Based on length of text, the BG and Prompt type icon(if active) will adjust so you don't have to worry about making different UI. [KEY FEATURE]
 - Some screenshots of current setup:
   ### Success popup demo
   ![image](https://github.com/user-attachments/assets/dffc0138-9b28-4aa0-b1aa-9e8defdaa3f4)
